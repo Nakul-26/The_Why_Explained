@@ -10,13 +10,15 @@ Now let's return to how Wi-Fi actually works.
 
 Imagine standing on one side of a lake and creating waves in the water. Someone on the other side could notice those waves and know that something happened. Wi-Fi works in a similar way. Your router creates invisible radio waves that spread through the air, and your phone listens for them. But these waves are not the internet itself. They are simply carrying information, just like your voice carries words through the air.
 
-################################
+
 
 This leads to an important question. How can a wave carry a website, a message, or even an entire YouTube video?
 
 The answer begins with understanding how computers communicate. Computers only understand two states: 1 and 0. This system is called binary. You can think of it like a flashlight blinking on and off. If someone blinks the flashlight in a specific pattern, another person can decode the message. Wi-Fi does something similar, but instead of visible light, it uses radio waves, and instead of blinking a few times per second, it changes the signal millions or even billions of times every second.
 
 That speed is what makes modern communication possible.
+
+################################
 
 When you press play on a YouTube video, your device sends a request through the Wi-Fi network. The router receives that request and forwards it through the internet. The video data then travels back to your router. But the router cannot simply throw a giant video through the air all at once. Instead, it breaks the information into many tiny pieces called packets.
 
