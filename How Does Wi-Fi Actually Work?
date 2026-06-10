@@ -20,9 +20,13 @@ That speed is what makes modern communication possible.
 
 ################################
 
-When you press play on a YouTube video, your device sends a request through the Wi-Fi network. The router receives that request and forwards it through the internet.(this part is not explained, but that is for another video re-phrase this like that) The video data then travels back to your router. But the router cannot simply throw a giant video through the air all at once(this part is not explained properly) . Instead, it breaks the information into many tiny pieces called packets.
+When you press play on a YouTube video, your device first needs to ask YouTube for the video. Exactly how that request travels across the internet is a fascinating topic by itself, and we'll explore that journey in another video. For now, all we need to know is that after your request reaches YouTube, YouTube starts sending the video data back toward your home router.
 
-You can think of packets like pages of a book. If you wanted to mail a huge book to someone, you might separate it into thousands of numbered pages and send them individually(why isn't it easier to send a whole book). When they arrive, the receiver puts them back together in the correct order. Wi-Fi works the same way. Videos, websites, messages, and images are broken into thousands or even millions of tiny packets.
+Now you might think, "Why doesn't YouTube just send the entire video at once?" Imagine trying to push an entire library through a small doorway in a single attempt. It would be difficult to manage, difficult to check for mistakes, and if something went wrong, you would have to send the whole thing again. Instead, it is much easier to split the information into many smaller pieces.
+
+These small pieces are called packets. You can think of packets like pages of a book. If you wanted to send a thousand-page book to a friend, you could put all thousand pages into one enormous box, but that box would be heavy, difficult to transport, and if it got lost, you would lose the entire book. Instead, imagine sending the book as many small numbered envelopes. If one envelope is lost, you only need to resend that single envelope, not the entire book.(in the real world the mail service is reliable but when it comes to network of internet some information is lost every now and then so it is not much reliable)
+
+The internet works in a very similar way. Videos, websites, messages, and images are broken into thousands or even millions of tiny packets. Each packet contains a small piece of the information along with instructions telling the receiving device where that piece belongs. As the packets arrive, your phone collects them, checks that nothing is missing, and puts everything back together in the correct order, just like reassembling the pages of a book.
 
 ####################################
 
