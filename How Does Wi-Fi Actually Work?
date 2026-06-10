@@ -20,9 +20,11 @@ That speed is what makes modern communication possible.
 
 ################################
 
-When you press play on a YouTube video, your device sends a request through the Wi-Fi network. The router receives that request and forwards it through the internet. The video data then travels back to your router. But the router cannot simply throw a giant video through the air all at once. Instead, it breaks the information into many tiny pieces called packets.
+When you press play on a YouTube video, your device sends a request through the Wi-Fi network. The router receives that request and forwards it through the internet.(this part is not explained, but that is for another video re-phrase this like that) The video data then travels back to your router. But the router cannot simply throw a giant video through the air all at once(this part is not explained properly) . Instead, it breaks the information into many tiny pieces called packets.
 
-You can think of packets like pages of a book. If you wanted to mail a huge book to someone, you might separate it into thousands of numbered pages and send them individually. When they arrive, the receiver puts them back together in the correct order. Wi-Fi works the same way. Videos, websites, messages, and images are broken into thousands or even millions of tiny packets.
+You can think of packets like pages of a book. If you wanted to mail a huge book to someone, you might separate it into thousands of numbered pages and send them individually(why isn't it easier to send a whole book). When they arrive, the receiver puts them back together in the correct order. Wi-Fi works the same way. Videos, websites, messages, and images are broken into thousands or even millions of tiny packets.
+
+####################################
 
 The router then converts these packets into patterns inside radio waves and broadcasts them through the air. Your phone receives those patterns and reconstructs the original information. This process happens so quickly that it feels instant.
 
