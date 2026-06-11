@@ -30,21 +30,21 @@ The internet works in a very similar way. Videos, websites, messages, and images
 
 ####################################
 
-The router then converts these packets into patterns inside radio waves and broadcasts them through the air. Your phone receives those patterns and reconstructs the original information. This process happens so quickly that it feels instant.
+The router then converts these packets into patterns inside radio waves(what patterns) and broadcasts them through the air(like ripples in a pond right). Your phone receives those patterns and reconstructs the original information. This process happens so quickly that it feels instant.
 
 Now here comes the truly mind-blowing part.
 
-Those radio waves travel at almost the speed of light, which is about 300 million meters every second. At that speed, a signal could travel around the Earth multiple times in a single second.
+Those radio waves travel at almost the speed of light(really?), which is about 300 million meters every second(difficult for humas to understand compare to something most people can relate to). At that speed, a signal could travel around the Earth multiple times in a single second.(much better comparison)
 
-But the impressive part is not just how fast the waves move. It is how much information they can carry.
+But the impressive part is not just how fast the waves move. It is how much information they can carry.(this is good line script but they can carry so much info because of the speed right)
 
 Modern Wi-Fi systems can transmit millions or even billions of bits of information every second. Remember, a bit is just a single 1 or 0. That means when you watch a video, your router and phone are exchanging an enormous stream of information, far too fast for humans to notice.
 
-This also explains why a video requires so many signals. A video is not just one file. It contains images, sound, colors, timing information, subtitles, and much more. All of that information is converted into billions of tiny binary values. These values are then encoded into radio waves and sent through the air.
+This also explains why a video requires so many signals. A video is not just one file. It contains images, sound, colors, timing information, subtitles, and much more. All of that information is converted into billions of tiny binary values. These values are then encoded into radio waves and sent through the air.(this part can you make it more simple)
 
 So yes, when you watch a YouTube video, there are countless tiny pieces of information flying invisibly through your room every second.
 
-Now let's talk about what happens when these waves encounter objects.
+(((((Now let's talk about what happens when these waves encounter objects.
 
 Radio waves do not simply pass through everything perfectly. Different materials affect them differently.
 
@@ -54,7 +54,9 @@ Metal tends to reflect radio waves, causing them to bounce around.
 
 Water absorbs some Wi-Fi frequencies surprisingly well. Since the human body contains a lot of water, even people can slightly weaken signals. This is one reason why your connection can sometimes change depending on where you are standing.
 
-But remember, weakening a signal does not mean the waves are harmful. It simply means some of the wave energy is being absorbed or redirected.
+But remember, weakening a signal does not mean the waves are harmful. It simply means some of the wave energy is being absorbed or redirected.))))))) <- this part I think we can explain in another video right??????
+
+#######################################
 
 Now another interesting challenge appears. What happens if multiple devices try to communicate at the same time?
 
